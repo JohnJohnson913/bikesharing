@@ -8,13 +8,25 @@ Knowing that there are quite a few differences between New York and Des Moines, 
 
  - **Peak Hours in August**:  It's clear from the data that most usage of the bikes were used for commuting to and from work.  Also, when looking at the data (from August) it also shows a steady increase in usage throughout the aftternoon and a drop off in the evenings.   This likely indicates that not only are these bikes used for commutes, they are also likely used for afternoon errands, and in NY likely some afternoon sight seeing.
 
+https://github.com/JohnJohnson913/bikesharing/blob/669f725ee4f79015927922c791ed6ec2577e3c16/peak_hours.png
+
 - **Gender Usage**:  We also noticed a significantly larger grouping of men rent the bikes over women.  The average usage numbers by men are nearly 300% greater during peak useage and even greater during lesser desirable times.  This reinforces the fact that the compesition of gender in our user type is also nearly 3 to 1 men vs women.
+
+https://github.com/JohnJohnson913/bikesharing/blob/669f725ee4f79015927922c791ed6ec2577e3c16/weeks_per_day.png
+https://github.com/JohnJohnson913/bikesharing/blob/669f725ee4f79015927922c791ed6ec2577e3c16/subscribers_vs_custoemer_gender.png
+https://github.com/JohnJohnson913/bikesharing/blob/669f725ee4f79015927922c791ed6ec2577e3c16/trips_by_gender.png
 
 - **Subscriber vs Customer**:  Additionally we evaluated the subscriber based model and it's effectiveness when looking at usage.   Turns out subscribers greatly outnumber the volume of users from a customer or nonsubscriber base.  Getting users subscribed is key.
 
+https://github.com/JohnJohnson913/bikesharing/blob/669f725ee4f79015927922c791ed6ec2577e3c16/subscriber_vs_customer.png
+
 - **How long do individuals use the bikes?**:  This metric indicates that several users only use the bikes for only about 5-6 minutes a day.  Meaning that the trips that are taken are often only a short trip, likly in their own neighborhood.  This is key for our use case, as NYC and Des Moines have drastically different urban density.  
 
+https://github.com/JohnJohnson913/bikesharing/blob/669f725ee4f79015927922c791ed6ec2577e3c16/check_out_times.png
+
 - **Start and Stop Locations**:  Another metric that may help define success is also a geographical item, this would how far does each bike travel between it's start and stop location.  In a similar manner with the trip duration, we've found that often times the start and stop locations of rides is in very close proximity.  This reinforces the ride data on trip times.   Again likely due to density of NYC.  Also, noticed the usage in the urban core of NYC, and the drastic difference when compared to suburbs.  This will be key.
+
+https://github.com/JohnJohnson913/bikesharing/blob/669f725ee4f79015927922c791ed6ec2577e3c16/start_stop.png
 
 #  Summary:
 
