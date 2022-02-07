@@ -2,7 +2,11 @@
 
 Kate and I had traveled for fun and and noticed how many individuals how many individuals used a bike sharing program for commuting.  Giving us the idea that we may be able to start a bike sharing company in our home city of Des Moines.   Kate was lucky enough to find an investor that could back the company, but we need to better understand how the system worked in NY to know if it's something we can do in Des Moines
 
+The full CitiBike analysis can be found here:  [Link to Dashboard](https://public.tableau.com/app/profile/john.johnson7682/viz/CitiBikeProposal_16437557686450/CitiBikeStory?publish=yes)
+
 #  Results:
+
+**What we found**
 
 Knowing that there are quite a few differences between New York and Des Moines, we dicided to look at a few key features, and visualized the data in Tableau.  Here's what we noticed about the trip data from NYC and how it could impact the usage in our town.
 
@@ -29,6 +33,8 @@ https://github.com/JohnJohnson913/bikesharing/blob/669f725ee4f79015927922c791ed6
 https://github.com/JohnJohnson913/bikesharing/blob/669f725ee4f79015927922c791ed6ec2577e3c16/start_stop.png
 
 #  Summary:
+
+**Where we should go next**
 
 In summary, this plan has the potential to be successful, however some major hurdles will need to be overcome to make this a vialble option in a city so drastically different that NYC.  I've included a few ideas to explore to help make this a success.
 
